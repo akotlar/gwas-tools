@@ -1,3 +1,3 @@
 # gwas-tools
 
-Initially based on Ricopilli
+Initially based on Ricopili, but scalable.
